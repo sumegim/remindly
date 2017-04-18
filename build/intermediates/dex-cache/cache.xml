@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/mars/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/22.1.1/support-annotations-22.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="/home/mars/StudioProjects/remindly/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-22.1.1_11b7871bd50241b1a9e8abd181ae214eecda04c6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mars/.android/build-cache/bc007b1b8c839f869e9f592298018cc78fb21305/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2b8a750df2a5d485d0c40b379b44371c5e6d98d">
+        <dex dex="/home/mars/StudioProjects/remindly/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_dc58d6deabe620abe1b50e61f1d9e56d3e2c716f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mars/.android/build-cache/1ca69efdefb9924a9d5f44cac3efca8daf55f4bd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8a90606ee73178bb9b1a336dc36ae3ec25ad33ea">
+        <dex dex="/home/mars/StudioProjects/remindly/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ca441d1be45a28ef4c080271574bee26b44e98c6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mars/StudioProjects/remindly/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/home/mars/StudioProjects/remindly/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_0232bd394ffc618296b01de4fa6e8bb9689ce1a4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mars/.android/build-cache/3b1174729787ac45a0dab4e8238d6f51176dafd0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="/home/mars/StudioProjects/remindly/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_32ac4bc9709655d2b59a8fa023bbd4357df050af/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mars/.android/build-cache/3b1174729787ac45a0dab4e8238d6f51176dafd0/output/jars/libs/internal_impl-22.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="/home/mars/StudioProjects/remindly/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-22.1.1_514761113217db5c1dc11dc7be431b6cac12eebc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mars/.android/build-cache/8dd821cc03595b16c5081b8136456ef56df7e1e3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6aaf52b8d6b8279df4de274463454ca11944fec6">
+        <dex dex="/home/mars/StudioProjects/remindly/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7a3e8c64df68e9f780ad7bcb9a7a4212045bae77/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mars/StudioProjects/remindly/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ca6db82e8fb81cad27e6eeab9433b66074d940f0">
+        <dex dex="/home/mars/StudioProjects/remindly/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_2b7b8e1dd7b8f97b517b73b15bae144eb962ffe9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mars/.android/build-cache/1bd002fa889610178e41a0d4ed0e5955b0cafbb2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e0b0c35d02308b270015a74cada4887e2e49b889">
+        <dex dex="/home/mars/StudioProjects/remindly/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a049ea921d0b94f8ffce70c91032fbe9a9f40837/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mars/.android/build-cache/ab6d45a91ad92ee0e09e2d93f82f87a3cf3e002b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="/home/mars/StudioProjects/remindly/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c8fded3e15d3b7e160fe1cec18dcd5edc69849fa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mars/.android/build-cache/d07d0b156d073917933e01d654b3c8c4401cddb8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d237556caead5b93d97e18a071059a2c0045978e">
+        <dex dex="/home/mars/StudioProjects/remindly/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f290dc474189194491e1cb5819887cd6bc79536a/classes.dex" />
+    </item>
+
+</items>
