@@ -82,8 +82,8 @@
       <file leaf-file-name="ReminderEditActivity.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/blanyal/remindme/ReminderEditActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="106" column="78" selection-start-line="106" selection-start-column="78" selection-end-line="106" selection-end-column="78" />
+            <state relative-caret-position="243">
+              <caret line="109" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="471" selection-end-column="1" />
               <folding>
                 <element signature="e#4086#4123#0" expanded="true" />
                 <element signature="e#7314#7333#0" expanded="true" />
@@ -2270,12 +2270,19 @@
       <option name="project" value="LOCAL" />
       <updated>1492616084742</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Code refactoring - fixing static analyzer warnings">
+      <created>1492620183965</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1492620183965</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="1985" y="24" width="1855" height="1056" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32903227" sideWeight="0.48922056" order="7" side_tool="false" content_ui="tabs" />
@@ -2496,8 +2503,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/blanyal/remindme/ReminderEditActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="106" column="78" selection-start-line="106" selection-start-column="78" selection-end-line="106" selection-end-column="78" />
+        <state relative-caret-position="243">
+          <caret line="109" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="471" selection-end-column="1" />
           <folding>
             <element signature="e#4086#4123#0" expanded="true" />
             <element signature="e#7314#7333#0" expanded="true" />
